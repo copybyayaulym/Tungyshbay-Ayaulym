@@ -115,4 +115,4 @@ If yes, explain briefly:
 
 This assigment, I learned how to build a simple web calculator.I understood better how JS works with HTML inputs and I also learned how to use conditions and formulas in real - life situation. This project helped me confidient in coding.
 
-(2–4 sentences)
+
